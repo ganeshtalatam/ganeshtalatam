@@ -5,8 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/ganesh_talatam" target="blank"><img src="https://img.shields.io/twitter/follow/ganesh_talatam?logo=twitter&style=for-the-badge" alt="ganesh_talatam" /></a> </p>
 
-- 🌱 I’m currently learning **HTML CSS Python**
-
+- 👨‍💻 Doing Front-End in React and Typescript
+- 🌱 I’m currently learning **Advanced React**
+- 🚀 Very excited to Learn and Grow as a Full Stack Developer
+- 🛄 All of my projects are available at https://github.com/ganeshtalatam
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ganesh_talatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesh_talatam" height="30" width="40" /></a>
