@@ -11,7 +11,8 @@
 - 🛄 All of my projects are available at https://github.com/ganeshtalatam
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ganesh_talatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesh_talatam" height="30" width="40" /></a>
+ 
+<a href="https://twitter.com/ganesh_talatam" target="blank"> <img align="center" src="https://camo.githubusercontent.com/2137ddbb22407b5b1014cc38de9d4d3699533ceef590b2cb6f79e9d6a5aad086/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747769747465722f747769747465722d74696c652e737667" alt="ganesh_talatam" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +34,7 @@
 </tr>
 <tr>
 <td><strong>Front End</strong></td>
-<td><a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" alt="html5" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="max-width: 100%;"> </a><a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3ea528306ee25e03662ecd554eefaeb6a571d706d8c765fa0ea3f0c35af7e46/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f6373732f77335f6373732d69636f6e2e737667" alt="css3" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" style="max-width: 100%;"> </a> <a href="https://sass-lang.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/a0b2658ecf95d18653a034991f5901432cce64ef50387de5eead24ba46fbd689/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f736173732d6c616e672f736173732d6c616e672d69636f6e2e737667" height="36" alt="Sass" data-canonical-src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" style="max-width: 100%;"></a></td>
+<td><a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" alt="html5" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="max-width: 100%;"> </a><a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3ea528306ee25e03662ecd554eefaeb6a571d706d8c765fa0ea3f0c35af7e46/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f6373732f77335f6373732d69636f6e2e737667" alt="css3" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" style="max-width: 100%;"> </a></td>
 </tr>
 <tr>
 <td><strong>Languages</strong></td>
