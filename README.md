@@ -10,7 +10,7 @@
 - 🚀 Very excited to Learn and Grow as a Full Stack Developer
 - 🛄 All of my projects are available at https://github.com/ganeshtalatam
 <h3 align="left">Connect with me:</h3>
-<p align="left" dir = "auto>
+<p align="left" dir = "auto">
  
 <a href="https://twitter.com/ganesh_talatam" target="blank"> <img align="center" src="https://camo.githubusercontent.com/2137ddbb22407b5b1014cc38de9d4d3699533ceef590b2cb6f79e9d6a5aad086/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747769747465722f747769747465722d74696c652e737667" alt="ganesh_talatam" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" style="max-width: 100%;"></a>
 
